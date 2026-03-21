@@ -16,7 +16,7 @@
     "@protobuf-ts/grpcweb-transport": "^2.9.6",
     "@protobuf-ts/runtime": "^2.9.6",
     "@protobuf-ts/runtime-rpc": "^2.9.6",
-    "axios": "^1.7.9",
+    "axios": "^1.13.5",
     "react": "^19.2.1",
     "react-dom": "^19.2.1",
     "react-markdown": "^10.1.0",
@@ -34,6 +34,6 @@
     "globals": "^15.15.0",
     "typescript": "~5.7.2",
     "typescript-eslint": "^8.24.1",
-    "vite": "^6.4.1"
+    "vite": "^8.0.1"
   }
 }
